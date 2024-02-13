@@ -7,4 +7,4 @@ The "add" and "update" option will take the user to a different page, where he c
 
 <img src="/image.png" width="500">
 <img src="/image-1.png" width="500">
-<img src="/image-2.png" width="500">
+<img src="/image-2.png" width="500" style="border:1px solid black;">
